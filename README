@@ -1,0 +1,8 @@
+4rimd
+
+4rimd is a 4chan image downloader written in ruby. Just run this script against any 4chan category, e.g. /b/ and it will
+download all images in the specified category. The script will ignore images which already exist, making it useful for incremental downloads, or resuming. 
+
+4rimd was designed to be webmaster friendly thus it only downloads one image at a time. It does not use threads, nor does it hammer a web server. 
+
+Enjoy!
