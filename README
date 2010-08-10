@@ -5,4 +5,8 @@ download all images in the specified category. The script will ignore images whi
 
 4rimd was designed to be webmaster friendly thus it only downloads one image at a time. It does not use threads, nor does it hammer a web server. 
 
+INSTRUCTIONS:
+
+To run this script you will require the ruby 'mechanize' gem. On your server type: "gem install mechanize" and then you're ready to rock!
+
 Enjoy!
