@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
 
 # 4rimd v0.1
-# by Allan Clark - <napta2k@gmail.com>
+# by Allan Clark - http://github.com/ajclark/4rimd/
 # This script will download all images in a given 4chan category
-# URL: http://github.com/ajclark/4rimd/
 
 require 'rubygems'
 require 'mechanize'
